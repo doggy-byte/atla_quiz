@@ -1,0 +1,5 @@
+{
+  "name": "MTG: Avatar Quiz",
+  "description": "A quiz app to test your knowledge of the card rulings from the Magic: The Gathering - Avatar: The Last Airbender crossover set, based on the official release notes.",
+  "requestFramePermissions": []
+}
